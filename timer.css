@@ -1,0 +1,14 @@
+ *{ 
+     box-sizing: border-box;
+ }
+ 
+ .countdown{
+     display:flex;
+     text-align: center;
+     justify-content: center;
+ }
+ .day,.hour,.minute,.second{
+     font-size: 3rem;
+     margin: 24px;
+
+ }
